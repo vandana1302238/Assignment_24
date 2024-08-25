@@ -20,3 +20,4 @@ This assignment is for understanding the working and architecture of stable diff
 https://huggingface.co/spaces/Vvaann/Assignment_24
 
 ![diffusion](opt.png)
+![diffusion_1](opt1.png)
